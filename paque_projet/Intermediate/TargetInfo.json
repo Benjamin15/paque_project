@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "paque_projet",
+			"Path": "D:\\Git\\paque_project\\paque_projet\\Source\\paque_projet.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "paque_projetEditor",
+			"Path": "D:\\Git\\paque_project\\paque_projet\\Source\\paque_projetEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

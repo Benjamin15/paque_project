@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\paque_projet.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4AA217A6-7E9C-4F28-882B-84BC318E61FB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\paque_projet.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\paque_projetEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9C12B447-2688-4EF1-834C-CE9DBAE01909}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\paque_projet">
+      <UniqueIdentifier>{B0FC7124-C381-44BB-841C-DEAD14CC67CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\paque_projet\paque_projet.Build.cs">
+      <Filter>Source\paque_projet</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\paque_projet\paque_projet.cpp">
+      <Filter>Source\paque_projet</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\paque_projet\paque_projet.h">
+      <Filter>Source\paque_projet</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\paque_projet\paque_projetCharacter.cpp">
+      <Filter>Source\paque_projet</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\paque_projet\paque_projetCharacter.h">
+      <Filter>Source\paque_projet</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\paque_projet\paque_projetGameMode.cpp">
+      <Filter>Source\paque_projet</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\paque_projet\paque_projetGameMode.h">
+      <Filter>Source\paque_projet</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
